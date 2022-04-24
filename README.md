@@ -140,6 +140,10 @@ Khi hàm quảng cáo được gọi thì hệ thống sẽ gọi API để ch�
 <strong>random weighted :</strong> điều chỉnh tỉ lệ khi nhận quà.
 Lật ngược tỉ lệ phần thưởng. Ví dụ tỉ lệ đồ mở ra là 99% cùi và 1% xịn thì bây giờ sẽ là 99% xịn và 1% cùi.
 
+{% gist f5bdf2a48293922b957772a20dc6aae8.... %}
+
+{% gist c2b966628e9668f36117bf5c3f184413 %}
+
 <script src="https://gist.github.com/Huythanh0x/f5bdf2a48293922b957772a20dc6aae8.js"></script>
 <script src="https://gist.github.com/Huythanh0x/c2b966628e9668f36117bf5c3f184413.js"></script>
 
