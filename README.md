@@ -98,7 +98,7 @@ Sau khi sửa xong thì chọn compile để biên dịch.
 
 ##### Ví dụ
 Và sau đây là một số code mẫu khi mình mod tựa game [Card crushers](https://play.google.com/store/apps/details?id=com.noxplay.card.crushers.ccg&hl=vi&gl=US).
-
+<!-- 
 <strong>claimable mod :</strong> kiểm tra xem rương có thể mở hay không.
 Thay vì kiểm tra điều kiện thì ta sẽ luôn return kết quả là true. Nghĩa là không cần quan tâm điều kiện về chìa khóa hay thời gian chờ đợi.
 
@@ -142,7 +142,9 @@ Lật ngược tỉ lệ phần thưởng. Ví dụ tỉ lệ đồ mở ra là 
 
 <script src="https://gist.github.com/Huythanh0x/f5bdf2a48293922b957772a20dc6aae8.js"></script>
 <script src="https://gist.github.com/Huythanh0x/c2b966628e9668f36117bf5c3f184413.js"></script>
+ -->
 
+ Để đọc code mẫu thì bạn đọc [tại đây](https://batdaulaptrinh.com/mod-game-unity-voi-dnspy/#v%C3%AD-d%E1%BB%A5) bởi vì GitHub Readme không hỗ trợ nhúng Gist.
 
 
 Sau khi mod tựa game này thì trong vòng 1 ngày mình đã đứng đầu bảng xếp hạng cũng như được số lượng lớn gold/diamond. Để có được số lượng như dưới hình thì cần nạp tới hàng chục triệu đồng hoặc vài năm cày cuốc.
